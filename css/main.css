@@ -29,11 +29,11 @@ nav ul li a:hover {
 	color: #000; 
 	background-color: #fff; 
 } 
-.container .blurb a {
+.container .blurb p a {
   text-decoration: none;
   color: #333;
 }
-.container .blurb a:hover {
+.container .blurb p a:hover {
     text-decoration: underline;
 }
 h1 {
