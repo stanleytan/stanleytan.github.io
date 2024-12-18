@@ -9,7 +9,7 @@ body {
 nav ul, footer ul {
     margin: 0;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0.1em;
+    padding: 0.2em;
     list-style: none;
     list-style-type: none;
     text-align: center;
@@ -18,7 +18,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-	padding: 0.1em;
+	padding: 0.2em;
 }
 nav ul li a { 
 	text-decoration: none; 
