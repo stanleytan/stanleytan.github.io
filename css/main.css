@@ -8,7 +8,7 @@ body {
 nav ul, footer ul {
     margin: 0;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 0.1em;
     list-style: none;
     list-style-type: none;
     text-align: center;
@@ -17,6 +17,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
+	padding: 0.1em;
 }
 nav ul li a { 
 	text-decoration: none; 
@@ -27,11 +28,11 @@ nav ul li a:hover {
 	color: #000; 
 	background-color: #fff; 
 } 
-.container a {
+.container .blurb a {
   text-decoration: none;
   color: #333;
 }
-.container a:hover {
+.container .blurb a:hover {
     text-decoration: underline;
 }
 h1 {
