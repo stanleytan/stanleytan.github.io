@@ -27,7 +27,7 @@ nav ul li a:hover {
 	background-color: #fff; 
 } 
 a {
-    
+    color: #333;
 }
 a:hover {
     text-decoration: underline;
