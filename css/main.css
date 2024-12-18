@@ -10,7 +10,7 @@ body {
 nav ul, footer ul {
     margin: 0px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0.2em;
+    padding: 0px;
     list-style: none;
     list-style-type: none;
     text-align: center;
