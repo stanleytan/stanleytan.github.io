@@ -20,7 +20,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
@@ -34,7 +34,7 @@ p {
 }
 img {
     width: auto;
-    max-height: 10em;
+    height: 4em;
 }
 footer {
     border-top: 1px solid #d5d5d5;
